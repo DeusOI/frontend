@@ -1,0 +1,26 @@
+img {
+    border-radius: 50%;
+
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+    /* Adjust the width as needed */
+    height: auto;
+    /* Keeps the aspect ratio */
+}
+
+.text-container {
+    margin-left: 20px;
+    /* Adjust the margin as needed */
+}
+
+.logo-text {
+    font-size: 30px;
+    /* Adjust the font size as needed */
+}

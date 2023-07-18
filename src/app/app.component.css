@@ -1,0 +1,22 @@
+ #banner {
+     height: 300px;
+     background-color: rgb(17, 156, 184);
+     margin: 20px;
+     border: 0.3em;
+     border-style: solid;
+     border-color: aquamarine;
+     border-style: groove;
+ }
+
+ #banner h1 {
+     text-align: center;
+     font-size: 30px;
+     font-family: 'Roboto Slab', serif;
+ }
+
+ #banner p {
+     font-size: 30px;
+     font-family: 'Roboto Slab', serif;
+     padding-top: 50px;
+     text-align: center;
+ }
